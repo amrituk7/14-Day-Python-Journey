@@ -13,6 +13,7 @@ Why I'm Doing This
 
 Daily Progress
 - Day 1 Set up my environment and wrote my first Python script
+-  plus Built a simple Project Duration Calculator using Python inputs and basic math.
 - Day 2 (will update)
 - Day 3 (will update)
 
@@ -25,4 +26,4 @@ Daily Progress
  connect With Me
 Twitter: @amritidc
 
-Day 1: Built a simple Project Duration Calculator using Python inputs and basic math.
+
