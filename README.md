@@ -24,3 +24,5 @@ Daily Progress
 
  connect With Me
 Twitter: @amritidc
+
+Day 1: Built a simple Project Duration Calculator using Python inputs and basic math.
